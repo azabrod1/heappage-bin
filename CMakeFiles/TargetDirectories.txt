@@ -1,0 +1,6 @@
+/Users/alex/Documents/workspace/HeapPage-bin/CMakeFiles/rebuild_cache.dir
+/Users/alex/Documents/workspace/HeapPage-bin/CMakeFiles/edit_cache.dir
+/Users/alex/Documents/workspace/HeapPage-bin/CMakeFiles/minibase-heappage.dir
+/Users/alex/Documents/workspace/HeapPage-bin/spacemgr/CMakeFiles/rebuild_cache.dir
+/Users/alex/Documents/workspace/HeapPage-bin/spacemgr/CMakeFiles/edit_cache.dir
+/Users/alex/Documents/workspace/HeapPage-bin/spacemgr/CMakeFiles/spacemgr.dir
